@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    locomotive_plugins (1.0.2)
+    locomotive_plugins (1.0.4)
       bson_ext
       haml (~> 4.0)
       locomotive_liquid (~> 2.4)
